@@ -1,0 +1,10 @@
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\bin\Debug\Monthly_payment_cacl.exe.config
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\bin\Debug\Monthly_payment_cacl.exe
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\bin\Debug\Monthly_payment_cacl.pdb
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\obj\Debug\Monthly_payment_cacl.csproj.AssemblyReference.cache
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\obj\Debug\Monthly_payment_cacl.Form1.resources
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\obj\Debug\Monthly_payment_cacl.Properties.Resources.resources
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\obj\Debug\Monthly_payment_cacl.csproj.GenerateResource.cache
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\obj\Debug\Monthly_payment_cacl.csproj.CoreCompileInputs.cache
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\obj\Debug\Monthly_payment_cacl.exe
+B:\CSCC\Autumn 2021\C#\Unit_f\Monthly_payment_cacl\Monthly_payment_cacl\obj\Debug\Monthly_payment_cacl.pdb
